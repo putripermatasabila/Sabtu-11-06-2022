@@ -312,9 +312,8 @@ facilities{
 }
 
 
-/*-----Sub Call to Action-------*/
 
-.sub-cta{
+.sub-ctt{
     margin: 100px auto;
     width: 80%;
     background-image: linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,0.7)),url(wisuda 2.png);
@@ -324,7 +323,7 @@ facilities{
     text-align: center;
     padding: 100px 0;
 }
-.sub-cta h1{
+.sub-ctt h1{
     color: #fff;
     margin-bottom: 40px;
     text-align: center;
@@ -332,7 +331,7 @@ facilities{
 }
 
 @media (max-width: 700px){
-    .sub-cta h1{
+    .sub-ctt h1{
         font-size: 24px;
     }
 }
